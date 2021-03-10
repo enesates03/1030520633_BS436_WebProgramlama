@@ -4,4 +4,4 @@
 
 Öğrenci Adı: Enes ATEŞ
 
-Ders Adı: BS436 Web Programlama 2
+Ders Adı: BS436 Web Programlama
