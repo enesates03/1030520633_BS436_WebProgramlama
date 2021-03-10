@@ -1,4 +1,4 @@
-# 1030520633_BS436_WebProgramlama
+
 
 Öğrenci Numarası: 1030520633
 
