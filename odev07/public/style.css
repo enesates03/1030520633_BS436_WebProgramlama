@@ -1,0 +1,141 @@
+* {
+	margin: 0px;
+    background-color: #db524d;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
+}
+
+a {
+    color: blueviolet;
+    font-style: italic;
+    font-size: 1em;
+}
+
+p {
+    font-size: 0.9em; 
+}
+
+.top {
+    font-size: 0.9em;
+}
+
+.main .gameArea {
+    display: flex;
+    /*border: 1px solid white;*/
+    border-radius: 5px;
+    height: 700px;
+    margin: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.gameArea .card {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 600px;
+    width: auto;
+    cursor: pointer;
+    margin: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.information {
+    border: 1.8px solid white;
+    width: 900px;
+    height: auto;
+    border-radius: 8px;
+    font-size: 0.9em;
+    margin: auto;
+    padding: 10px 0px;
+}
+
+.play {
+    border: 1.8px solid black; 
+    border-radius: 5px; 
+}
+
+.btn {
+    border-radius: 10px;
+    border: 1.8px solid white; 
+    color: white;
+    background-color:#db524d;
+    font-size: 2.4rem;
+    font-style: normal;
+    text-decoration: none;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+
+.button {
+    background-color: #ebe9e4;
+    color: #000000;
+    padding: 1rem;
+    border: 1px solid #787774;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+.button:focus,
+.button:hover {
+    background-color: #2d1ed6;
+    color: #ebe9e4;
+
+}
+
+.btn:hover{
+    background-color: white;
+    color: #db524d;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    padding: 1rem 4rem;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-logo {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 5rem;
+    text-decoration: none;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.header-text {
+    align-self: center;
+    font-size: large;
+}
+.header-button {
+    background-color: #ebe9e4;
+    color: #000000;
+    padding: 1rem;
+    border: 1px solid #787774;
+    border-radius: 5px;
+    margin: 1rem 1rem 0 1rem;
+}
+.header-button:focus,
+.header-button:hover {
+    background-color: #2d1ed6;
+    color: #ebe9e4;
+}
+
+.action-buttons {
+    margin-top: 2rem;
+}
+
+.heading {
+    margin: 2rem 0;
+}
+
+
